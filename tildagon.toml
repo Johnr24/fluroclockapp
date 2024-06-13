@@ -28,7 +28,7 @@ author = "John Rogers & Ben Eriksson"
 license = "MIT"
 
 # URL to the repository of your app.
-url = "https://www.github.com/npentrel/tildagon-snake"
+url = "https://github.com/Johnr24/fluroclockapp"
 
 # Description of your app.  Maximum 140 characters!
 description = "Control the Fluroclock at EMF, from your badge!"
